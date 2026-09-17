@@ -22,15 +22,12 @@
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,dotnet,postgres" /></a>
 
 **DevOps & Tools**<br>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,docker,linux" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vercel,docker,linux" /></a>
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hieupcm03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=hieupcm03&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hieupcm03&show_icons=true&theme=tokyonight&hide_border=true&v=1)](https://github.com/hieupcm03)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hieupcm03&theme=tokyonight&hide_border=true&v=1)](https://github.com/hieupcm03)
