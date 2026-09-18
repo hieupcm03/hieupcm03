@@ -16,10 +16,10 @@
 ### 🛠️ Tech Stack & Tools
 
 **Mobile & Frontend**<br>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kotlin,html,css,js,ts,react,tailwind,figma" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kotlin,html,css,js,ts,react,tailwind" /></a>
 
 **Backend & Database**<br>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,dotnet,postgres" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,nestjs,postgres" /></a>
 
 **DevOps & Tools**<br>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vercel,docker,linux" /></a>
@@ -28,6 +28,6 @@
 
 ### 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hieupcm03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=999)](https://github.com/hieupcm03)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=hieupcm03&rank_icon=github&custom_title=My%20Github%20Stats&show_icons=true&include_all_commits=true&theme=slateorange)](https://github-stats-extended.vercel.app/api?username=hieupcm03&rank_icon=github&custom_title=My%20Github%20Stats&show_icons=true&include_all_commits=true&theme=slateorange)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=hieupcm03&theme=tokyonight&hide_border=true&v=1)](https://github.com/hieupcm03)
