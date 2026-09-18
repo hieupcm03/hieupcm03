@@ -7,7 +7,7 @@
 ### 👨‍💻 About Me
 * 🎓 Third-year Software Engineering student at University of Information Technology (UIT - VNUHCM).
 * 📱 Exploring the mobile world with **Android, Kotlin, and Jetpack Compose**.
-* 🌐 Building robust web applications using **ReactJS, .NET, and Java Spring Boot**.
+* 🌐 Building robust web applications using **ReactJS, NestJS, and Java Spring Boot**.
 * 💡 Always eager to learn new technologies and collaborate on impactful projects.
 * 📫 How to reach me: **hieupcm03@gmail.com**
 
@@ -30,4 +30,6 @@
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=hieupcm03&rank_icon=github&custom_title=My%20Github%20Stats&show_icons=true&include_all_commits=true&theme=slateorange)](https://github-stats-extended.vercel.app/api?username=hieupcm03&rank_icon=github&custom_title=My%20Github%20Stats&show_icons=true&include_all_commits=true&theme=slateorange)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=hieupcm03&theme=tokyonight&hide_border=true&v=1)](https://github.com/hieupcm03)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=hieupcm03&layout=donut-vertical&langs_count=5&hide_values=true&theme=slateorange)](https://github-stats-extended.vercel.app/api/top-langs?username=hieupcm03&layout=donut-vertical&langs_count=5&hide_values=true&theme=slateorange)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hieupcm03&theme=slateorange&v=2)](https://github.com/hieupcm03)
