@@ -28,6 +28,6 @@
 
 ### 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hieupcm03&show_icons=true&theme=tokyonight&hide_border=true&v=1)](https://github.com/hieupcm03)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hieupcm03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=999)](https://github.com/hieupcm03)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=hieupcm03&theme=tokyonight&hide_border=true&v=1)](https://github.com/hieupcm03)
