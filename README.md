@@ -19,7 +19,7 @@
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kotlin,html,css,js,ts,react,tailwind" /></a>
 
 **Backend & Database**<br>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,nestjs,postgres" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,nestjs,postgres,mysql" /></a>
 
 **DevOps & Tools**<br>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vercel,docker,linux" /></a>
